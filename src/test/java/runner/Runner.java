@@ -12,7 +12,7 @@ import utilities.CucumberReportingConfig;
 @CucumberOptions(
 		features ="classpath:features",
 		glue ="stepDefiniation",
-		tags = "@smoketest",
+		tags = "@HomePage",
 		dryRun = false,
 		strict = true,
 		monochrome = true,

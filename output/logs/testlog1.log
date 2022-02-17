@@ -117,3 +117,49 @@
 2022-01-20 20:37:21,566 [main] INFO looger_File - Text verified!
 2022-01-20 20:37:21,567 [main] INFO looger_File - Homepage validated successfully
 2022-01-20 20:37:22,606 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-02-16 23:43:30,213 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-02-16 23:43:38,188 [main] INFO looger_File - Text verified!
+2022-02-16 23:43:38,188 [main] INFO looger_File - Homepage validated successfully
+2022-02-16 23:43:39,451 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-02-16 23:43:39,463 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-02-16 23:43:41,366 [main] INFO looger_File - Text verified!
+2022-02-16 23:43:41,366 [main] INFO looger_File - Homepage validated successfully
+2022-02-16 23:43:42,528 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-02-16 23:43:42,549 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-02-16 23:43:44,267 [main] INFO looger_File - Text verified!
+2022-02-16 23:43:44,268 [main] INFO looger_File - Homepage validated successfully
+2022-02-16 23:43:45,571 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-02-16 23:54:52,790 [main] INFO looger_File - ScenarioUser verify currency values changeStarted
+2022-02-16 23:54:53,015 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-16 23:54:53,028 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.102\chromedriver.exe
+2022-02-16 23:54:55,394 [main] INFO looger_File - '[[ChromeDriver: chrome on WINDOWS (7703efc7a63893821fb9fb2db1846bc8)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-16 23:54:55,883 [main] INFO looger_File - Retail page validate successfully!
+2022-02-16 23:54:55,942 [main] INFO looger_File - User click on currency button successfully
+2022-02-16 23:54:56,238 [main] INFO looger_File - User chose Euro successfully from dropdown
+2022-02-16 23:54:56,661 [main] INFO looger_File - Euro sign successfuly verifed
+2022-02-16 23:54:56,838 [main] INFO looger_File - ScenarioUser verify currency values changePASSED
+2022-02-16 23:54:56,861 [main] INFO looger_File - ScenarioUser empty Shopping cart message displaysStarted
+2022-02-16 23:54:56,867 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-16 23:54:56,873 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.102\chromedriver.exe
+2022-02-16 23:54:58,617 [main] INFO looger_File - '[[ChromeDriver: chrome on WINDOWS (afcae48c7ecf6d94a48d30821f52b111)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-16 23:54:59,025 [main] INFO looger_File - Retail page validate successfully!
+2022-02-16 23:54:59,070 [main] INFO looger_File - User click on shopping cart succesfully
+2022-02-16 23:54:59,390 [main] INFO looger_File - Shopping empty message displyed successfully
+2022-02-16 23:54:59,554 [main] INFO looger_File - ScenarioUser empty Shopping cart message displaysPASSED
+2022-02-16 23:57:34,199 [main] INFO looger_File - ScenarioUser verify currency values changeStarted
+2022-02-16 23:57:34,433 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-16 23:57:34,448 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.102\chromedriver.exe
+2022-02-16 23:57:36,691 [main] INFO looger_File - '[[ChromeDriver: chrome on WINDOWS (8fefcffb6d97342585ae585798f908c0)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-16 23:57:37,160 [main] INFO looger_File - Retail page validate successfully!
+2022-02-16 23:57:37,217 [main] INFO looger_File - User click on currency button successfully
+2022-02-16 23:57:37,509 [main] INFO looger_File - User chose Euro successfully from dropdown
+2022-02-16 23:57:37,798 [main] INFO looger_File - Euro sign successfuly verifed
+2022-02-16 23:57:37,962 [main] INFO looger_File - ScenarioUser verify currency values changePASSED
+2022-02-16 23:57:37,976 [main] INFO looger_File - ScenarioUser empty Shopping cart message displaysStarted
+2022-02-16 23:57:37,982 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.102 (since Google Chrome 98 is installed in your machine)
+2022-02-16 23:57:37,991 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghafo\.m2\repository\webdriver\chromedriver\win32\98.0.4758.102\chromedriver.exe
+2022-02-16 23:57:39,812 [main] INFO looger_File - '[[ChromeDriver: chrome on WINDOWS (e541733db983a5e21f5d88847b5ae592)] -> xpath: //a[text()='TEST ENVIRONMENT']]'text verified
+2022-02-16 23:57:40,187 [main] INFO looger_File - Retail page validate successfully!
+2022-02-16 23:57:40,233 [main] INFO looger_File - User click on shopping cart succesfully
+2022-02-16 23:57:40,539 [main] INFO looger_File - Shopping empty message displyed successfully
+2022-02-16 23:57:40,691 [main] INFO looger_File - ScenarioUser empty Shopping cart message displaysPASSED

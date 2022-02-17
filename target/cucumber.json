@@ -3,44 +3,11 @@
     "line": 2,
     "elements": [
       {
-        "line": 4,
-        "name": "",
-        "description": "",
-        "type": "background",
-        "keyword": "Background",
-        "steps": [
-          {
-            "result": {
-              "duration": 454098700,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "User is on test environment homepage",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_is_on_test_environment_homepage()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 61484500,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "user click on myaccount button",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_myaccount_button()"
-            },
-            "keyword": "When "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-01-21T04:37:13.899Z",
+        "start_timestamp": "2022-02-17T07:57:34.059Z",
         "before": [
           {
             "result": {
-              "duration": 2238991400,
+              "duration": 2494660100,
               "status": "passed"
             },
             "match": {
@@ -48,14 +15,14 @@
             }
           }
         ],
-        "line": 21,
-        "name": "Login to Test environment Retail Page",
+        "line": 4,
+        "name": "User verify currency values change",
         "description": "",
-        "id": "test-environment-retail-page;login-to-test-environment-retail-page;;2",
+        "id": "homepage;user-verify-currency-values-change",
         "after": [
           {
             "result": {
-              "duration": 154521000,
+              "duration": 162675900,
               "status": "passed"
             },
             "match": {
@@ -64,100 +31,69 @@
           }
         ],
         "type": "scenario",
-        "keyword": "Scenario Outline",
+        "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 200715600,
+              "duration": 533353800,
               "status": "passed"
             },
-            "line": 15,
-            "name": "user click on login button",
+            "line": 5,
+            "name": "User is on Retail website",
             "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_login_button()"
+              "location": "stepDefiniation.HomeStepsNew.user_is_on_retail_website()"
             },
-            "keyword": "Then "
+            "keyword": "Given "
           },
           {
             "result": {
-              "duration": 133174400,
+              "duration": 53276200,
               "status": "passed"
             },
-            "line": 16,
-            "name": "user enter \u0027eagles@tekschool.us\u0027 and \u0027eagles\u0027",
+            "line": 6,
+            "name": "User click on Currency",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027eagles@tekschool.us\u0027",
-                  "offset": 11
-                },
-                {
-                  "val": "\u0027eagles\u0027",
-                  "offset": 37
-                }
-              ],
-              "location": "stepDefiniation.LoginSteps.user_enter_and(java.lang.String,java.lang.String)"
+              "location": "stepDefiniation.HomeStepsNew.user_click_on_currency()"
             },
-            "keyword": "Then "
+            "keyword": "When "
           },
           {
             "result": {
-              "duration": 195454400,
+              "duration": 292124300,
               "status": "passed"
             },
-            "line": 17,
-            "name": "user click on login button to login to the page",
+            "line": 7,
+            "name": "User Chose Euro from dropdown",
             "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_login_button_to_login_to_the_page()"
+              "location": "stepDefiniation.HomeStepsNew.user_chose_euro_from_dropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 286829600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "currency value should change to Euro",
+            "match": {
+              "location": "stepDefiniation.HomeStepsNew.currency_value_should_change_to_euro()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@smoketest"
+            "name": "@HomePage"
           }
         ]
       },
       {
-        "line": 4,
-        "name": "",
-        "description": "",
-        "type": "background",
-        "keyword": "Background",
-        "steps": [
-          {
-            "result": {
-              "duration": 440513100,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "User is on test environment homepage",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_is_on_test_environment_homepage()"
-            },
-            "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 48147500,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "user click on myaccount button",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_myaccount_button()"
-            },
-            "keyword": "When "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-01-21T04:37:17.423Z",
+        "start_timestamp": "2022-02-17T07:57:37.974Z",
         "before": [
           {
             "result": {
-              "duration": 1418852600,
+              "duration": 1803449900,
               "status": "passed"
             },
             "match": {
@@ -165,14 +101,14 @@
             }
           }
         ],
-        "line": 22,
-        "name": "Login to Test environment Retail Page",
+        "line": 10,
+        "name": "User empty Shopping cart message displays",
         "description": "",
-        "id": "test-environment-retail-page;login-to-test-environment-retail-page;;3",
+        "id": "homepage;user-empty-shopping-cart-message-displays",
         "after": [
           {
             "result": {
-              "duration": 155147600,
+              "duration": 150552700,
               "status": "passed"
             },
             "match": {
@@ -181,184 +117,66 @@
           }
         ],
         "type": "scenario",
-        "keyword": "Scenario Outline",
+        "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 172405500,
+              "duration": 409963800,
               "status": "passed"
             },
-            "line": 15,
-            "name": "user click on login button",
+            "line": 11,
+            "name": "User is on Retail website",
             "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_login_button()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 123845700,
-              "status": "passed"
-            },
-            "line": 16,
-            "name": "user enter \u0027hawks@tekschool.us\u0027 and \u0027hawks\u0027",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\u0027hawks@tekschool.us\u0027",
-                  "offset": 11
-                },
-                {
-                  "val": "\u0027hawks\u0027",
-                  "offset": 36
-                }
-              ],
-              "location": "stepDefiniation.LoginSteps.user_enter_and(java.lang.String,java.lang.String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 335253800,
-              "status": "passed"
-            },
-            "line": 17,
-            "name": "user click on login button to login to the page",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_login_button_to_login_to_the_page()"
-            },
-            "keyword": "Then "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@smoketest"
-          }
-        ]
-      },
-      {
-        "line": 4,
-        "name": "",
-        "description": "",
-        "type": "background",
-        "keyword": "Background",
-        "steps": [
-          {
-            "result": {
-              "duration": 408871600,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "User is on test environment homepage",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_is_on_test_environment_homepage()"
+              "location": "stepDefiniation.HomeStepsNew.user_is_on_retail_website()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 41735700,
+              "duration": 44194200,
               "status": "passed"
             },
-            "line": 6,
-            "name": "user click on myaccount button",
+            "line": 12,
+            "name": "User click on shopping cart",
             "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_myaccount_button()"
+              "location": "stepDefiniation.HomeStepsNew.user_click_on_shopping_cart()"
             },
             "keyword": "When "
-          }
-        ]
-      },
-      {
-        "start_timestamp": "2022-01-21T04:37:20.135Z",
-        "before": [
-          {
-            "result": {
-              "duration": 1397974100,
-              "status": "passed"
-            },
-            "match": {
-              "location": "stepDefiniation.Initializer.beforeHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "line": 23,
-        "name": "Login to Test environment Retail Page",
-        "description": "",
-        "id": "test-environment-retail-page;login-to-test-environment-retail-page;;4",
-        "after": [
-          {
-            "result": {
-              "duration": 158237400,
-              "status": "passed"
-            },
-            "match": {
-              "location": "stepDefiniation.Initializer.afterHooks(io.cucumber.java.Scenario)"
-            }
-          }
-        ],
-        "type": "scenario",
-        "keyword": "Scenario Outline",
-        "steps": [
-          {
-            "result": {
-              "duration": 166039800,
-              "status": "passed"
-            },
-            "line": 15,
-            "name": "user click on login button",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_login_button()"
-            },
-            "keyword": "Then "
           },
           {
             "result": {
-              "duration": 128590200,
+              "duration": 305314600,
               "status": "passed"
             },
-            "line": 16,
-            "name": "user enter \u0027falcons@tekschool.us\u0027 and \u0027falcons\u0027",
+            "line": 13,
+            "name": "“Your shopping cart is empty!” message should display",
             "match": {
-              "arguments": [
-                {
-                  "val": "\u0027falcons@tekschool.us\u0027",
-                  "offset": 11
-                },
-                {
-                  "val": "\u0027falcons\u0027",
-                  "offset": 38
-                }
-              ],
-              "location": "stepDefiniation.LoginSteps.user_enter_and(java.lang.String,java.lang.String)"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 164563600,
-              "status": "passed"
-            },
-            "line": 17,
-            "name": "user click on login button to login to the page",
-            "match": {
-              "location": "stepDefiniation.LoginSteps.user_click_on_login_button_to_login_to_the_page()"
+              "location": "stepDefiniation.HomeStepsNew.your_shopping_cart_is_empty_message_should_display()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@smoketest"
+            "name": "@HomePage"
           }
         ]
       }
     ],
-    "name": "Test Environment Retail Page",
+    "name": "HomePage",
     "description": "",
-    "id": "test-environment-retail-page",
+    "id": "homepage",
     "keyword": "Feature",
-    "uri": "classpath:features/newOne.feature",
-    "tags": []
+    "uri": "classpath:features/homeNew.feature",
+    "tags": [
+      {
+        "name": "@HomePage",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
   }
 ]
