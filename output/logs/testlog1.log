@@ -1,0 +1,119 @@
+2022-01-15 18:38:51,481 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:38:58,296 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageUNDEFINED
+2022-01-15 18:40:51,618 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:40:55,537 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePENDING
+2022-01-15 18:41:30,065 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:41:33,804 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePENDING
+2022-01-15 18:42:03,756 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:42:08,254 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePENDING
+2022-01-15 18:51:40,617 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:51:44,424 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePENDING
+2022-01-15 18:53:55,238 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:54:02,884 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageUNDEFINED
+2022-01-15 18:56:49,251 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:56:52,895 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePENDING
+2022-01-15 18:57:54,327 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 18:57:57,860 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-15 19:01:04,892 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 19:01:08,579 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-15 19:04:04,185 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 19:04:07,720 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageUNDEFINED
+2022-01-15 19:53:57,472 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 20:23:51,581 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 20:23:54,845 [main] INFO looger_File - Text verified!
+2022-01-15 20:27:46,062 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 20:27:50,643 [main] INFO looger_File - Text verified!
+2022-01-15 20:28:21,185 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageFAILED
+2022-01-15 20:40:29,827 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 20:40:32,400 [main] INFO looger_File - Text verified!
+2022-01-15 20:40:33,235 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-15 22:21:34,223 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 22:21:36,915 [main] INFO looger_File - Text verified!
+2022-01-15 22:21:37,686 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-15 22:23:14,605 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 22:23:18,087 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-15 22:24:01,487 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-15 22:26:33,397 [main] INFO looger_File - Text verified!
+2022-01-16 10:11:16,909 [main] INFO looger_File - Text verified!
+2022-01-16 10:15:34,694 [main] INFO looger_File - Text verified!
+2022-01-17 21:15:41,275 [main] INFO looger_File - Text verified!
+2022-01-17 23:51:26,046 [main] INFO looger_File - Text verified!
+2022-01-18 10:34:02,737 [main] INFO looger_File - Text verified!
+2022-01-18 10:36:02,296 [main] INFO looger_File - Text verified!
+2022-01-18 10:37:58,812 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-18 10:38:08,165 [main] INFO looger_File - Text verified!
+2022-01-18 10:38:09,844 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-18 11:38:06,350 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-18 11:38:17,409 [main] INFO looger_File - Text verified!
+2022-01-18 11:38:18,308 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-18 11:46:15,639 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-18 11:46:24,783 [main] INFO looger_File - Text verified!
+2022-01-18 11:46:25,667 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-18 21:45:44,317 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-18 21:46:18,619 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageFAILED
+2022-01-18 21:58:39,063 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-18 21:59:10,112 [main] INFO looger_File - Text verified!
+2022-01-18 21:59:11,170 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-18 22:07:10,339 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-18 22:07:20,047 [main] INFO looger_File - Text verified!
+2022-01-18 22:07:20,047 [main] INFO looger_File - Homepage validated successfully
+2022-01-18 22:07:21,219 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-19 21:36:14,578 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-19 21:41:35,782 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-19 21:46:11,849 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-19 21:56:18,921 [main] INFO looger_File - ScenarioStarted
+2022-01-19 21:56:29,514 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-19 21:59:42,510 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-19 22:11:38,029 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-19 22:11:50,425 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-19 22:22:23,487 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-19 22:22:39,755 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 07:56:29,070 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-20 07:56:38,860 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 08:02:59,519 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-20 08:03:08,207 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 08:03:12,484 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 08:03:18,751 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 17:50:42,829 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-20 17:51:00,880 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 17:51:09,748 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 17:51:42,902 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageFAILED
+2022-01-20 17:51:42,912 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 17:52:16,129 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageFAILED
+2022-01-20 17:53:30,204 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-20 17:54:04,624 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageFAILED
+2022-01-20 17:54:04,659 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 17:54:18,081 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 17:54:21,618 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 18:24:59,272 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-20 18:25:03,742 [main] INFO looger_File - Text verified!
+2022-01-20 18:25:03,746 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 18:25:07,004 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-20 18:25:52,695 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PageStarted
+2022-01-20 18:25:56,575 [main] INFO looger_File - Text verified!
+2022-01-20 18:25:56,577 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 18:25:59,164 [main] INFO looger_File - ScenarioLogin to Test Environment Retail PagePASSED
+2022-01-20 18:25:59,232 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 18:26:01,705 [main] INFO looger_File - Text verified!
+2022-01-20 18:26:01,708 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 18:26:04,432 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-01-20 18:26:04,453 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 18:26:07,041 [main] INFO looger_File - Text verified!
+2022-01-20 18:26:07,042 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 18:26:09,758 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-01-20 18:26:09,764 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 18:26:12,234 [main] INFO looger_File - Text verified!
+2022-01-20 18:26:12,235 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 18:26:14,983 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-01-20 20:37:14,072 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 20:37:16,260 [main] INFO looger_File - Text verified!
+2022-01-20 20:37:16,260 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 20:37:17,406 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-01-20 20:37:17,427 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 20:37:18,872 [main] INFO looger_File - Text verified!
+2022-01-20 20:37:18,872 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 20:37:20,123 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
+2022-01-20 20:37:20,138 [main] INFO looger_File - ScenarioLogin to Test environment Retail PageStarted
+2022-01-20 20:37:21,566 [main] INFO looger_File - Text verified!
+2022-01-20 20:37:21,567 [main] INFO looger_File - Homepage validated successfully
+2022-01-20 20:37:22,606 [main] INFO looger_File - ScenarioLogin to Test environment Retail PagePASSED
